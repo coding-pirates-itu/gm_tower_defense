@@ -1,5 +1,6 @@
-var paths = layer_get_all_elements(layer_get_id("Path"));
-enemy_paths = [];
+var lid = layer_get_id("Path");
+var paths = layer_get_all_elements(lid);
+enemy_paths = [o_LevelConfig.path];
 
 
 for (var i = 0; i < array_length(paths); i++)

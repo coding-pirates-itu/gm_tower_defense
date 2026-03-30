@@ -34,6 +34,7 @@
     {"id":{"name":"o_Enemy_L1","path":"objects/o_Enemy_L1/o_Enemy_L1.yy",},},
     {"id":{"name":"o_Enemy_L2","path":"objects/o_Enemy_L2/o_Enemy_L2.yy",},},
     {"id":{"name":"o_GameController","path":"objects/o_GameController/o_GameController.yy",},},
+    {"id":{"name":"o_LevelConfig","path":"objects/o_LevelConfig/o_LevelConfig.yy",},},
     {"id":{"name":"o_Money","path":"objects/o_Money/o_Money.yy",},},
     {"id":{"name":"o_Projectile_Base","path":"objects/o_Projectile_Base/o_Projectile_Base.yy",},},
     {"id":{"name":"o_Tower_Base","path":"objects/o_Tower_Base/o_Tower_Base.yy",},},

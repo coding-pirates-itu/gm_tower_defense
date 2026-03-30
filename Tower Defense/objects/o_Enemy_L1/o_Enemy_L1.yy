@@ -4,7 +4,10 @@
   "eventList":[],
   "managed":true,
   "name":"o_Enemy_L1",
-  "overriddenProperties":[],
+  "overriddenProperties":[
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"o_Enemy_Base","path":"objects/o_Enemy_Base/o_Enemy_Base.yy",},"propertyId":{"name":"Speed","path":"objects/o_Enemy_Base/o_Enemy_Base.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"2",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"o_Enemy_Base","path":"objects/o_Enemy_Base/o_Enemy_Base.yy",},"propertyId":{"name":"Lives","path":"objects/o_Enemy_Base/o_Enemy_Base.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"2",},
+  ],
   "parent":{
     "name":"Enemies",
     "path":"folders/Enemies.yy",
