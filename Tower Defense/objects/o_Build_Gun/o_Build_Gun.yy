@@ -7,6 +7,7 @@
   "overriddenProperties":[
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"o_Build_Base","path":"objects/o_Build_Base/o_Build_Base.yy",},"propertyId":{"name":"Sequence","path":"objects/o_Build_Base/o_Build_Base.yy",},"resource":{"name":"seq_BuildGun","path":"sequences/seq_BuildGun/seq_BuildGun.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"seq_BuildGun",},
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"o_Build_Base","path":"objects/o_Build_Base/o_Build_Base.yy",},"propertyId":{"name":"Name","path":"objects/o_Build_Base/o_Build_Base.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"gun",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"o_Build_Base","path":"objects/o_Build_Base/o_Build_Base.yy",},"propertyId":{"name":"Price","path":"objects/o_Build_Base/o_Build_Base.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"5",},
   ],
   "parent":{
     "name":"Menu",

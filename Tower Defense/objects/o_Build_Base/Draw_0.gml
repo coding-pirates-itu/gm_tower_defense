@@ -1,5 +1,5 @@
 draw_self();
-if (show_tooltip)
+if (show_tooltip && Price > 0)
 {
     draw_sprite_stretched(
         s_Money, 0,

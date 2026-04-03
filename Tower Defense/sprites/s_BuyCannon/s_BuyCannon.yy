@@ -2,7 +2,7 @@
   "$GMSprite":"v2",
   "%Name":"s_BuyCannon",
   "bboxMode":0,
-  "bbox_bottom":37,
+  "bbox_bottom":38,
   "bbox_left":5,
   "bbox_right":39,
   "bbox_top":10,

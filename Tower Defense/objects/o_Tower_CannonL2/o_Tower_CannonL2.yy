@@ -1,20 +1,20 @@
 {
   "$GMObject":"",
-  "%Name":"o_Tower_GunL2",
+  "%Name":"o_Tower_CannonL2",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"o_Tower_GunL2",
+  "name":"o_Tower_CannonL2",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"o_Tower_Base","path":"objects/o_Tower_Base/o_Tower_Base.yy",},"propertyId":{"name":"Projectile","path":"objects/o_Tower_Base/o_Tower_Base.yy",},"resource":{"name":"o_Bullet","path":"objects/o_Bullet/o_Bullet.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"o_Bullet",},
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"o_Tower_Base","path":"objects/o_Tower_Base/o_Tower_Base.yy",},"propertyId":{"name":"ShootFrequency","path":"objects/o_Tower_Base/o_Tower_Base.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"50",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"o_Tower_Base","path":"objects/o_Tower_Base/o_Tower_Base.yy",},"propertyId":{"name":"Projectile","path":"objects/o_Tower_Base/o_Tower_Base.yy",},"resource":{"name":"o_CannonBall","path":"objects/o_CannonBall/o_CannonBall.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"o_CannonBall",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"o_Tower_Base","path":"objects/o_Tower_Base/o_Tower_Base.yy",},"propertyId":{"name":"ShootFrequency","path":"objects/o_Tower_Base/o_Tower_Base.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"105",},
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"o_Tower_Base","path":"objects/o_Tower_Base/o_Tower_Base.yy",},"propertyId":{"name":"Radius","path":"objects/o_Tower_Base/o_Tower_Base.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"270",},
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"o_Tower_Base","path":"objects/o_Tower_Base/o_Tower_Base.yy",},"propertyId":{"name":"MenuSequence","path":"objects/o_Tower_Base/o_Tower_Base.yy",},"resource":{"name":"seq_MenuDeleteOnly","path":"sequences/seq_MenuDeleteOnly/seq_MenuDeleteOnly.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"seq_MenuDeleteOnly",},
   ],
   "parent":{
-    "name":"Gun",
-    "path":"folders/Towers/Gun.yy",
+    "name":"Cannon",
+    "path":"folders/Towers/Cannon.yy",
   },
   "parentObjectId":{
     "name":"o_Tower_Base",
@@ -38,8 +38,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"s_Tower_GunL2",
-    "path":"sprites/s_Tower_GunL2/s_Tower_GunL2.yy",
+    "name":"s_Tower_CannonL2",
+    "path":"sprites/s_Tower_CannonL2/s_Tower_CannonL2.yy",
   },
   "spriteMaskId":null,
   "visible":true,

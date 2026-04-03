@@ -1,11 +1,14 @@
 {
   "$GMObject":"",
   "%Name":"o_Tower_GunL1",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"o_Tower_GunL1",
   "overriddenProperties":[
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"o_Tower_Base","path":"objects/o_Tower_Base/o_Tower_Base.yy",},"propertyId":{"name":"Projectile","path":"objects/o_Tower_Base/o_Tower_Base.yy",},"resource":{"name":"o_Bullet","path":"objects/o_Bullet/o_Bullet.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"o_Bullet",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"o_Tower_Base","path":"objects/o_Tower_Base/o_Tower_Base.yy",},"propertyId":{"name":"MenuSequence","path":"objects/o_Tower_Base/o_Tower_Base.yy",},"resource":{"name":"seq_MenuGunUpgrade","path":"sequences/seq_MenuGunUpgrade/seq_MenuGunUpgrade.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"seq_MenuGunUpgrade",},
   ],
   "parent":{
     "name":"Gun",

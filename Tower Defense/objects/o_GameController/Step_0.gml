@@ -1,6 +1,6 @@
-if (!instance_exists(o_LevelConfig)) exit;
+if (!instance_exists(global.levelConfig)) exit;
     
-if (current_wave >= array_length(o_LevelConfig.Waves))
+if (current_wave >= array_length(global.levelConfig.Waves))
 {
     if (!instance_exists(o_Enemy_Base))
     {
@@ -9,7 +9,7 @@ if (current_wave >= array_length(o_LevelConfig.Waves))
     exit;
 }
     
-var wave = o_LevelConfig.Waves[current_wave];
+var wave = global.levelConfig.Waves[current_wave];
 
 if (current_spawned >= wave.count)
 {
@@ -26,7 +26,7 @@ current_spawned++;
 
 enemy_type = wave.types[irandom(array_length(wave.types) - 1)];
 
-var path = o_LevelConfig.path;
+var path = global.levelConfig.path;
 var spawn_x = path_get_point_x(path, 0);
 var spawn_y = path_get_point_y(path, 0);
 var e = instance_create_layer(spawn_x, spawn_y, "Instances", enemy_type);

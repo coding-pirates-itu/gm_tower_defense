@@ -1,17 +1,22 @@
 {
   "$GMObject":"",
-  "%Name":"o_LevelConfig",
+  "%Name":"o_Level1Config",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"o_LevelConfig",
-  "overriddenProperties":[],
+  "name":"o_Level1Config",
+  "overriddenProperties":[
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"o_LevelConfig_Base","path":"objects/o_LevelConfig_Base/o_LevelConfig_Base.yy",},"propertyId":{"name":"path","path":"objects/o_LevelConfig_Base/o_LevelConfig_Base.yy",},"resource":{"name":"pth_Level1","path":"paths/pth_Level1/pth_Level1.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"pth_Level1",},
+  ],
   "parent":{
-    "name":"Game",
-    "path":"folders/Game.yy",
+    "name":"Levels",
+    "path":"folders/Levels.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"o_LevelConfig_Base",
+    "path":"objects/o_LevelConfig_Base/o_LevelConfig_Base.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -25,11 +30,7 @@
   "physicsShape":1,
   "physicsShapePoints":[],
   "physicsStartAwake":true,
-  "properties":[
-    {"$GMObjectProperty":"v2","%Name":"path","filters":[
-        "GMPath",
-      ],"listItems":[],"multiselect":false,"name":"path","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"","varType":5,},
-  ],
+  "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
