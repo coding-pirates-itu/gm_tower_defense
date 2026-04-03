@@ -5,8 +5,9 @@
   "managed":true,
   "name":"o_Enemy_L2",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"o_Enemy_Base","path":"objects/o_Enemy_Base/o_Enemy_Base.yy",},"propertyId":{"name":"Speed","path":"objects/o_Enemy_Base/o_Enemy_Base.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"1",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"o_Enemy_Base","path":"objects/o_Enemy_Base/o_Enemy_Base.yy",},"propertyId":{"name":"Speed","path":"objects/o_Enemy_Base/o_Enemy_Base.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"1.5",},
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"o_Enemy_Base","path":"objects/o_Enemy_Base/o_Enemy_Base.yy",},"propertyId":{"name":"Lives","path":"objects/o_Enemy_Base/o_Enemy_Base.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"10",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"o_Enemy_Base","path":"objects/o_Enemy_Base/o_Enemy_Base.yy",},"propertyId":{"name":"Prize","path":"objects/o_Enemy_Base/o_Enemy_Base.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"3",},
   ],
   "parent":{
     "name":"Enemies",

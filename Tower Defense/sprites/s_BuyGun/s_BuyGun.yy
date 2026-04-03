@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"Build",
-    "path":"folders/Towers/Build.yy",
+    "name":"Menu",
+    "path":"folders/Menu.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

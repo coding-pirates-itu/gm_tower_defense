@@ -26,8 +26,8 @@
   },
   "name":"seq_BuildGun",
   "parent":{
-    "name":"Build",
-    "path":"folders/Towers/Build.yy",
+    "name":"Menu",
+    "path":"folders/Menu.yy",
   },
   "playback":0,
   "playbackSpeed":60.0,

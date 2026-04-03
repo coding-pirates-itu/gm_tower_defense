@@ -1,1 +1,1 @@
-owner.Action(name);
+owner.Action(Name, Price);

@@ -1,7 +1,7 @@
 if (anim_inst == noone)
 {
-    // Only here x and y are correct
-    anim_id = layer_sequence_create("UI", x, y, sequence);
+    // Only here x and y are correct, not at Create event
+    anim_id = layer_sequence_create("UI", x, y, Sequence);
     anim_inst = layer_sequence_get_instance(anim_id);
 }
 

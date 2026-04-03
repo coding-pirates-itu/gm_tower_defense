@@ -5,12 +5,13 @@
   "managed":true,
   "name":"o_Build_Cannon",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"o_Build_Base","path":"objects/o_Build_Base/o_Build_Base.yy",},"propertyId":{"name":"sequence","path":"objects/o_Build_Base/o_Build_Base.yy",},"resource":{"name":"seq_BuildCannon","path":"sequences/seq_BuildCannon/seq_BuildCannon.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"seq_BuildCannon",},
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"o_Build_Base","path":"objects/o_Build_Base/o_Build_Base.yy",},"propertyId":{"name":"name","path":"objects/o_Build_Base/o_Build_Base.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"cannon",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"o_Build_Base","path":"objects/o_Build_Base/o_Build_Base.yy",},"propertyId":{"name":"Sequence","path":"objects/o_Build_Base/o_Build_Base.yy",},"resource":{"name":"seq_BuildCannon","path":"sequences/seq_BuildCannon/seq_BuildCannon.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"seq_BuildCannon",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"o_Build_Base","path":"objects/o_Build_Base/o_Build_Base.yy",},"propertyId":{"name":"Name","path":"objects/o_Build_Base/o_Build_Base.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"cannon",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"o_Build_Base","path":"objects/o_Build_Base/o_Build_Base.yy",},"propertyId":{"name":"Price","path":"objects/o_Build_Base/o_Build_Base.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"10",},
   ],
   "parent":{
-    "name":"Build",
-    "path":"folders/Towers/Build.yy",
+    "name":"Menu",
+    "path":"folders/Menu.yy",
   },
   "parentObjectId":{
     "name":"o_Build_Base",

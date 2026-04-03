@@ -4,7 +4,10 @@
   "eventList":[],
   "managed":true,
   "name":"o_CannonBall",
-  "overriddenProperties":[],
+  "overriddenProperties":[
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"o_Projectile_Base","path":"objects/o_Projectile_Base/o_Projectile_Base.yy",},"propertyId":{"name":"Damage","path":"objects/o_Projectile_Base/o_Projectile_Base.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"3",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"o_Projectile_Base","path":"objects/o_Projectile_Base/o_Projectile_Base.yy",},"propertyId":{"name":"BulletSpeed","path":"objects/o_Projectile_Base/o_Projectile_Base.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"5",},
+  ],
   "parent":{
     "name":"Cannon",
     "path":"folders/Towers/Cannon.yy",
