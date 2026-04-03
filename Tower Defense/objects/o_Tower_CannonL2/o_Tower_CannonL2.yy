@@ -8,8 +8,8 @@
   "name":"o_Tower_CannonL2",
   "overriddenProperties":[
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"o_Tower_Base","path":"objects/o_Tower_Base/o_Tower_Base.yy",},"propertyId":{"name":"Projectile","path":"objects/o_Tower_Base/o_Tower_Base.yy",},"resource":{"name":"o_CannonBall","path":"objects/o_CannonBall/o_CannonBall.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"o_CannonBall",},
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"o_Tower_Base","path":"objects/o_Tower_Base/o_Tower_Base.yy",},"propertyId":{"name":"ShootFrequency","path":"objects/o_Tower_Base/o_Tower_Base.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"105",},
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"o_Tower_Base","path":"objects/o_Tower_Base/o_Tower_Base.yy",},"propertyId":{"name":"Radius","path":"objects/o_Tower_Base/o_Tower_Base.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"270",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"o_Tower_Base","path":"objects/o_Tower_Base/o_Tower_Base.yy",},"propertyId":{"name":"ShootFrequency","path":"objects/o_Tower_Base/o_Tower_Base.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"100",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"o_Tower_Base","path":"objects/o_Tower_Base/o_Tower_Base.yy",},"propertyId":{"name":"Radius","path":"objects/o_Tower_Base/o_Tower_Base.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"275",},
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"o_Tower_Base","path":"objects/o_Tower_Base/o_Tower_Base.yy",},"propertyId":{"name":"MenuSequence","path":"objects/o_Tower_Base/o_Tower_Base.yy",},"resource":{"name":"seq_MenuDeleteOnly","path":"sequences/seq_MenuDeleteOnly/seq_MenuDeleteOnly.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"seq_MenuDeleteOnly",},
   ],
   "parent":{
