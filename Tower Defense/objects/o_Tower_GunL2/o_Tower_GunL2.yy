@@ -11,6 +11,7 @@
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"o_Tower_Base","path":"objects/o_Tower_Base/o_Tower_Base.yy",},"propertyId":{"name":"ShootFrequency","path":"objects/o_Tower_Base/o_Tower_Base.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"50",},
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"o_Tower_Base","path":"objects/o_Tower_Base/o_Tower_Base.yy",},"propertyId":{"name":"Radius","path":"objects/o_Tower_Base/o_Tower_Base.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"270",},
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"o_Tower_Base","path":"objects/o_Tower_Base/o_Tower_Base.yy",},"propertyId":{"name":"MenuSequence","path":"objects/o_Tower_Base/o_Tower_Base.yy",},"resource":{"name":"seq_MenuDeleteOnly","path":"sequences/seq_MenuDeleteOnly/seq_MenuDeleteOnly.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"seq_MenuDeleteOnly",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"o_Tower_Base","path":"objects/o_Tower_Base/o_Tower_Base.yy",},"propertyId":{"name":"Weapon","path":"objects/o_Tower_Base/o_Tower_Base.yy",},"resource":{"name":"seq_Shoot_GunL2","path":"sequences/seq_Shoot_GunL2/seq_Shoot_GunL2.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"seq_Shoot_GunL2",},
   ],
   "parent":{
     "name":"Gun",

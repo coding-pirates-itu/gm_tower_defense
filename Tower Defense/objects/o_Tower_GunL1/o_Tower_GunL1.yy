@@ -9,6 +9,7 @@
   "overriddenProperties":[
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"o_Tower_Base","path":"objects/o_Tower_Base/o_Tower_Base.yy",},"propertyId":{"name":"Projectile","path":"objects/o_Tower_Base/o_Tower_Base.yy",},"resource":{"name":"o_Bullet","path":"objects/o_Bullet/o_Bullet.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"o_Bullet",},
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"o_Tower_Base","path":"objects/o_Tower_Base/o_Tower_Base.yy",},"propertyId":{"name":"MenuSequence","path":"objects/o_Tower_Base/o_Tower_Base.yy",},"resource":{"name":"seq_MenuGunUpgrade","path":"sequences/seq_MenuGunUpgrade/seq_MenuGunUpgrade.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"seq_MenuGunUpgrade",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"o_Tower_Base","path":"objects/o_Tower_Base/o_Tower_Base.yy",},"propertyId":{"name":"Weapon","path":"objects/o_Tower_Base/o_Tower_Base.yy",},"resource":{"name":"seq_Shoot_GunL1","path":"sequences/seq_Shoot_GunL1/seq_Shoot_GunL1.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"seq_Shoot_GunL1",},
   ],
   "parent":{
     "name":"Gun",

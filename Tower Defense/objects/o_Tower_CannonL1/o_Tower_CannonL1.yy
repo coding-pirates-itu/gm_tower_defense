@@ -10,6 +10,7 @@
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"o_Tower_Base","path":"objects/o_Tower_Base/o_Tower_Base.yy",},"propertyId":{"name":"Projectile","path":"objects/o_Tower_Base/o_Tower_Base.yy",},"resource":{"name":"o_CannonBall","path":"objects/o_CannonBall/o_CannonBall.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"o_CannonBall",},
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"o_Tower_Base","path":"objects/o_Tower_Base/o_Tower_Base.yy",},"propertyId":{"name":"ShootFrequency","path":"objects/o_Tower_Base/o_Tower_Base.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"120",},
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"o_Tower_Base","path":"objects/o_Tower_Base/o_Tower_Base.yy",},"propertyId":{"name":"MenuSequence","path":"objects/o_Tower_Base/o_Tower_Base.yy",},"resource":{"name":"seq_MenuCannonUpgrade","path":"sequences/seq_MenuCannonUpgrade/seq_MenuCannonUpgrade.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"seq_MenuCannonUpgrade",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"o_Tower_Base","path":"objects/o_Tower_Base/o_Tower_Base.yy",},"propertyId":{"name":"Weapon","path":"objects/o_Tower_Base/o_Tower_Base.yy",},"resource":{"name":"seq_Shoot_CannonL1","path":"sequences/seq_Shoot_CannonL1/seq_Shoot_CannonL1.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"seq_Shoot_CannonL1",},
   ],
   "parent":{
     "name":"Cannon",

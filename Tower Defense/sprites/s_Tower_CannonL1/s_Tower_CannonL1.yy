@@ -19,7 +19,7 @@
   "height":128,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"c2edcfc8-3a25-44cc-ba68-724b60ec5c63","blendMode":0,"displayName":"Weapon","isLocked":false,"name":"c2edcfc8-3a25-44cc-ba68-724b60ec5c63","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"c2edcfc8-3a25-44cc-ba68-724b60ec5c63","blendMode":0,"displayName":"Weapon","isLocked":false,"name":"c2edcfc8-3a25-44cc-ba68-724b60ec5c63","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":false,},
     {"$GMImageLayer":"","%Name":"f7871470-bf5b-4364-83b4-0eb76ac088fa","blendMode":0,"displayName":"Floor","isLocked":false,"name":"f7871470-bf5b-4364-83b4-0eb76ac088fa","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
     {"$GMImageLayer":"","%Name":"f3c708b6-7697-4734-9d72-80b0fdc89e18","blendMode":0,"displayName":"Walls","isLocked":false,"name":"f3c708b6-7697-4734-9d72-80b0fdc89e18","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
