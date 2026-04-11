@@ -14,3 +14,4 @@ function Action(name, price)
 }
 
 menu = noone;
+mouse_inside = true;
