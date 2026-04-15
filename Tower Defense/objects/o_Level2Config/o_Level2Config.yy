@@ -1,17 +1,20 @@
 {
   "$GMObject":"",
-  "%Name":"o_LevelConfig_Base",
+  "%Name":"o_Level2Config",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"o_LevelConfig_Base",
+  "name":"o_Level2Config",
   "overriddenProperties":[],
   "parent":{
-    "name":"Common",
-    "path":"folders/Levels/Common.yy",
+    "name":"L2",
+    "path":"folders/Levels/L2.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"o_LevelConfig_Base",
+    "path":"objects/o_LevelConfig_Base/o_LevelConfig_Base.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

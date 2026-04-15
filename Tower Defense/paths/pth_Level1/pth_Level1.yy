@@ -5,8 +5,8 @@
   "kind":1,
   "name":"pth_Level1",
   "parent":{
-    "name":"Levels",
-    "path":"folders/Levels.yy",
+    "name":"L1",
+    "path":"folders/Levels/L1.yy",
   },
   "points":[
     {"speed":100.0,"x":0.0,"y":800.0,},

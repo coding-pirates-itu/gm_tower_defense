@@ -6,12 +6,10 @@
   ],
   "managed":true,
   "name":"o_Level1Config",
-  "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"o_LevelConfig_Base","path":"objects/o_LevelConfig_Base/o_LevelConfig_Base.yy",},"propertyId":{"name":"path","path":"objects/o_LevelConfig_Base/o_LevelConfig_Base.yy",},"resource":{"name":"pth_Level1","path":"paths/pth_Level1/pth_Level1.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"pth_Level1",},
-  ],
+  "overriddenProperties":[],
   "parent":{
-    "name":"Levels",
-    "path":"folders/Levels.yy",
+    "name":"L1",
+    "path":"folders/Levels/L1.yy",
   },
   "parentObjectId":{
     "name":"o_LevelConfig_Base",

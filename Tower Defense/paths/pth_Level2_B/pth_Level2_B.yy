@@ -1,0 +1,22 @@
+{
+  "$GMPath":"",
+  "%Name":"pth_Level2_B",
+  "closed":false,
+  "kind":1,
+  "name":"pth_Level2_B",
+  "parent":{
+    "name":"L2",
+    "path":"folders/Levels/L2.yy",
+  },
+  "points":[
+    {"speed":100.0,"x":0.0,"y":800.0,},
+    {"speed":100.0,"x":1504.0,"y":800.0,},
+    {"speed":100.0,"x":1568.0,"y":736.0,},
+    {"speed":100.0,"x":1568.0,"y":576.0,},
+    {"speed":100.0,"x":1504.0,"y":480.0,},
+    {"speed":100.0,"x":0.0,"y":480.0,},
+  ],
+  "precision":4,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
+}

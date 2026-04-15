@@ -14,8 +14,8 @@
   "out_tilehborder":0,
   "out_tilevborder":0,
   "parent":{
-    "name":"Levels",
-    "path":"folders/Levels.yy",
+    "name":"Common",
+    "path":"folders/Levels/Common.yy",
   },
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",

@@ -16,8 +16,8 @@
   ],
   "name":"rm_Won",
   "parent":{
-    "name":"Levels",
-    "path":"folders/Levels.yy",
+    "name":"Main",
+    "path":"folders/Levels/Main.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

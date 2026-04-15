@@ -26,8 +26,8 @@
   },
   "name":"seq_GameWon",
   "parent":{
-    "name":"Levels",
-    "path":"folders/Levels.yy",
+    "name":"Main",
+    "path":"folders/Levels/Main.yy",
   },
   "playback":0,
   "playbackSpeed":60.0,

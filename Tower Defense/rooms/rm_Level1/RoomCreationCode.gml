@@ -1,1 +1,0 @@
-global.levelConfig = instance_create_layer(0, 0, "Instances", o_Level1Config);
