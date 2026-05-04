@@ -16,17 +16,15 @@ if (count > 0)
         }
     }
 
-    weapon_direction = point_direction(x, y, closest.x, closest.y);
-    var curAngle = layer_sequence_get_angle(weaponId);
-    var newAngle = lerp(curAngle, weapon_direction, 0.8);
-    layer_sequence_angle(weaponId, newAngle);
+    WeaponDirection = point_direction(x, y, closest.x, closest.y);
+    var curAngle = layer_sequence_get_angle(WeaponId);
+    var newAngle = lerp(curAngle, WeaponDirection, 0.8);
+    layer_sequence_angle(WeaponId, newAngle);
     
-    if (! can_shoot) exit;
-    layer_sequence_play(weaponId);
-    var b = instance_create_layer(x, y, "Projectiles", Projectile);
-    b.Target = closest;
-    can_shoot = false;
-    alarm_set(0, ShootFrequency);
+    if (! CanShoot) exit;
+    WeaponTarget = closest;
+    layer_sequence_play(WeaponId);
+    CanShoot = false;
 }
 
 ds_list_destroy(enemies);

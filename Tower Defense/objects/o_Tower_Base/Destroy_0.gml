@@ -1,1 +1,1 @@
-layer_sequence_destroy(weaponId);
+layer_sequence_destroy(WeaponId);
